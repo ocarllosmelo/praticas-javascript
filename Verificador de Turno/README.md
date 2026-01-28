@@ -1,7 +1,8 @@
 # Desafio 05 - Verificador de Turno Operacional
 
 ### 📝 Descrição
-Gerenciador de horários para a equipe de reposição, garantindo que o sistema reconheça o turno independentemente da formatação do texto.
+Gerenciador de horários para a equipe de reposição, 
+garantindo que o sistema reconheça o turno independentemente da formatação do texto.
 
 ### 🛠️ Conceitos Praticados
 - Manipulação de Strings (`.toUpperCase()`).
