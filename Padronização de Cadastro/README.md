@@ -8,3 +8,4 @@ Módulo de tratamento de dados textuais. O objetivo é garantir que nomes de aut
 - Método `.trim()` (Remoção de espaços).
 - Método `.toUpperCase()` (Transformação de caixa).
 - Propriedade `.length` (Contagem de caracteres).
+- Uso de função (atualização feita em 06/02/26).
