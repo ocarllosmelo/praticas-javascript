@@ -1,8 +1,8 @@
 // Padronização de Cadastro de Autores
-// Dados de entrada
-const nomeDoAutor = " São TOMÁS DE AQUINO ";
+// Dados de Entrada
+const nomeDoAutor = " carLoS DRummOnD De aNDRadE ";
 
-// Regras de padronização
+// Regras de Padronização
 function padronizarNome(nome) {
     const nomePadronizado = nome.trim().toUpperCase();
     return nomePadronizado;
